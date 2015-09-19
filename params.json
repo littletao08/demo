@@ -1,1 +1,84 @@
-{"name":"iphtml","tagline":"","body":"### Welcome to GitHub Pages.\r\nThis automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.\r\n\r\n### Designer Templates\r\nWe’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.\r\n\r\n### Creating pages manually\r\nIf you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.\r\n\r\n### Authors and Contributors\r\nYou can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+    "error": 0,
+    "status": "success",
+    "date": "2014-09-13",
+    "results": [
+        {
+            "currentCity": "西安市",
+            "pm25": "25",
+            "index": [
+                {
+                    "title": "穿衣",
+                    "zs": "较舒适",
+                    "tipt": "穿衣指数",
+                    "des": "建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。"
+                },
+                {
+                    "title": "洗车",
+                    "zs": "不宜",
+                    "tipt": "洗车指数",
+                    "des": "不宜洗车，未来24小时内有雨，如果在此期间洗车，雨水和路上的泥水可能会再次弄脏您的爱车。"
+                },
+                {
+                    "title": "旅游",
+                    "zs": "一般",
+                    "tipt": "旅游指数",
+                    "des": "温度适宜，有微风同行，但较强降雨的天气将给您的出行带来很多的不便，若坚持旅行建议带上雨具。"
+                },
+                {
+                    "title": "感冒",
+                    "zs": "较易发",
+                    "tipt": "感冒指数",
+                    "des": "天气较凉，较易发生感冒，请适当增加衣服。体质较弱的朋友尤其应该注意防护。"
+                },
+                {
+                    "title": "运动",
+                    "zs": "较不宜",
+                    "tipt": "运动指数",
+                    "des": "有较强降水，建议您选择在室内进行健身休闲运动。"
+                },
+                {
+                    "title": "紫外线强度",
+                    "zs": "最弱",
+                    "tipt": "紫外线强度指数",
+                    "des": "属弱紫外线辐射天气，无需特别防护。若长期在户外，建议涂擦SPF在8-12之间的防晒护肤品。"
+                }
+            ],
+            "weather_data": [
+                {
+                    "date": "周六 09月13日 (实时：16℃)",
+                    "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/zhongyu.png",
+                    "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/zhongyu.png",
+                    "weather": "中雨",
+                    "wind": "西南风微风",
+                    "temperature": "15℃"
+                },
+                {
+                    "date": "周日",
+                    "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/zhongyu.png",
+                    "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/zhongyu.png",
+                    "weather": "中雨",
+                    "wind": "西南风微风",
+                    "temperature": "18 ~ 15℃"
+                },
+                {
+                    "date": "周一",
+                    "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/zhongyu.png",
+                    "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/zhongyu.png",
+                    "weather": "中雨",
+                    "wind": "西南风微风",
+                    "temperature": "19 ~ 15℃"
+                },
+                {
+                    "date": "周二",
+                    "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/zhongyu.png",
+                    "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/zhongyu.png",
+                    "weather": "中雨",
+                    "wind": "西南风微风",
+                    "temperature": "17 ~ 15℃"
+                }
+            ]
+        }
+    ]
+}
+
