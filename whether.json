@@ -1,0 +1,250 @@
+
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+77
+
+78
+
+79
+
+80
+
+81
+
+82
+
+83
+ {
+    "error": 0,
+    "status": "success",
+    "date": "2014-09-13",
+    "results": [
+        {
+            "currentCity": "西安市",
+            "pm25": "25",
+            "index": [
+                {
+                    "title": "穿衣",
+                    "zs": "较舒适",
+                    "tipt": "穿衣指数",
+                    "des": "建议着薄外套、开衫牛仔衫裤等服装。年老体弱者应适当添加衣物，宜着夹克衫、薄毛衣等。"
+                },
+                {
+                    "title": "洗车",
+                    "zs": "不宜",
+                    "tipt": "洗车指数",
+                    "des": "不宜洗车，未来24小时内有雨，如果在此期间洗车，雨水和路上的泥水可能会再次弄脏您的爱车。"
+                },
+                {
+                    "title": "旅游",
+                    "zs": "一般",
+                    "tipt": "旅游指数",
+                    "des": "温度适宜，有微风同行，但较强降雨的天气将给您的出行带来很多的不便，若坚持旅行建议带上雨具。"
+                },
+                {
+                    "title": "感冒",
+                    "zs": "较易发",
+                    "tipt": "感冒指数",
+                    "des": "天气较凉，较易发生感冒，请适当增加衣服。体质较弱的朋友尤其应该注意防护。"
+                },
+                {
+                    "title": "运动",
+                    "zs": "较不宜",
+                    "tipt": "运动指数",
+                    "des": "有较强降水，建议您选择在室内进行健身休闲运动。"
+                },
+                {
+                    "title": "紫外线强度",
+                    "zs": "最弱",
+                    "tipt": "紫外线强度指数",
+                    "des": "属弱紫外线辐射天气，无需特别防护。若长期在户外，建议涂擦SPF在8-12之间的防晒护肤品。"
+                }
+            ],
+            "weather_data": [
+                {
+                    "date": "周六 09月13日 (实时：16℃)",
+                    "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/zhongyu.png",
+                    "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/zhongyu.png",
+                    "weather": "中雨",
+                    "wind": "西南风微风",
+                    "temperature": "15℃"
+                },
+                {
+                    "date": "周日",
+                    "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/zhongyu.png",
+                    "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/zhongyu.png",
+                    "weather": "中雨",
+                    "wind": "西南风微风",
+                    "temperature": "18 ~ 15℃"
+                },
+                {
+                    "date": "周一",
+                    "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/zhongyu.png",
+                    "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/zhongyu.png",
+                    "weather": "中雨",
+                    "wind": "西南风微风",
+                    "temperature": "19 ~ 15℃"
+                },
+                {
+                    "date": "周二",
+                    "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/zhongyu.png",
+                    "nightPictureUrl": "http://api.map.baidu.com/images/weather/night/zhongyu.png",
+                    "weather": "中雨",
+                    "wind": "西南风微风",
+                    "temperature": "17 ~ 15℃"
+                }
+            ]
+        }
+    ]
+}
+
+ 
